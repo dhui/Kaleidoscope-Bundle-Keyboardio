@@ -25,3 +25,6 @@
 [submodule "avr/bootloaders/Atreus2"]
 	path = avr/bootloaders/Atreus2
 	url = https://github.com/keyboardio/Atreus2-Bootloader
+[submodule "avr/libraries/Kaleidoscope-CapsLock"]
+	path = avr/libraries/Kaleidoscope-CapsLock
+	url = https://github.com/dhui/Kaleidoscope-CapsLock.git
