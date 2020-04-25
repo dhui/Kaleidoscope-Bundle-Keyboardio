@@ -28,3 +28,4 @@
 [submodule "avr/libraries/Kaleidoscope-CapsLock"]
 	path = avr/libraries/Kaleidoscope-CapsLock
 	url = https://github.com/dhui/Kaleidoscope-CapsLock.git
+	branch = release
